@@ -7,6 +7,5 @@
   "rules": {
     "at-rule-no-unknown": null,
     "scss/at-rule-no-unknown": null
-  },
-  "ignoreFiles": ["assets/scss/theme/theme.scss"]
+  }
 }
